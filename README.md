@@ -1,25 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Todo App</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+# Todo App ✔
 
-  <div class="container">
-    <h2>Todo List</h2>
+A simple Todo List Web Application built using:
 
-    <div class="input-section">
-      <input id="taskInput" type="text" placeholder="Add your task">
-      <button onclick="addTask()">Add</button>
-    </div>
+- HTML for structure
+- CSS for design/styling
+- JavaScript for interactivity
 
-    <ul id="taskList"></ul>
-  </div>
+## 🔥 Features
+- Add tasks
+- Displays tasks instantly
+- Clean and simple UI
 
-  <script src="script.js"></script>
-</body>
-</html>
+## 🚀 How to Use
+1. Enter a task in the input box
+2. Click **Add**
+3. Your task will appear below as a list
+
+## 📁 Project Files
+- index.html → Main page
+- style.css → Styling
+- script.js → JavaScript logic
+
+## 📌 Author
+Revathi 💫
 
