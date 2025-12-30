@@ -1,26 +1,23 @@
-# Todo App ✔
 
-A simple Todo List Web Application built using:
+  <title>Todo App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-- HTML for structure
-- CSS for design/styling
-- JavaScript for interactivity
+  <div class="container">
+    <h2>Todo List</h2>
 
-## 🔥 Features
-- Add tasks
-- Displays tasks instantly
-- Clean and simple UI
+    <div class="input-section">
+      <input id="taskInput" type="text" placeholder="Add your task">
+      <button onclick="addTask()">Add</button>
+    </div>
 
-## 🚀 How to Use
-1. Enter a task in the input box
-2. Click **Add**
-3. Your task will appear below as a list
+    <ul id="taskList"></ul>
+  </div>
 
-## 📁 Project Files
-- index.html → Main page
-- style.css → Styling
-- script.js → JavaScript logic
+  <script src="script.js"></script>
 
-## 📌 Author
-Revathi 💫
+
+
+
 
