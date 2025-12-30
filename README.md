@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Todo App</title>
-  <link rel="stylesheet" href="css/style.css/todoapp.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -19,6 +19,7 @@
     <ul id="taskList"></ul>
   </div>
 
-  <script src="js/script.js/todoapp.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
+
